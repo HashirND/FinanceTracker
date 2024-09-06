@@ -1,22 +1,41 @@
+# Personal Finance Tracker
+
+Personal Finance Tracker is a web application that helps you manage your finances effectively. With this application, you can track your income and expenses, set budgets, and gain better control over your financial health. 
+
+<img width="960" alt="image" src="https://github.com/neeraj542/Personal-Finance-Tracker/assets/114648043/83946993-1e1b-41a8-ad3e-d0598bb9deb7">
 
 
-### Personal Finance Tracker
+## Features
 
-Personal Finance Manager is a web-based application designed to simplify financial management. It enables you to monitor your income and spending, set personalized budgets, and maintain control over your financial well-being.
+- Track your income and expenses effortlessly
+- Set financial goals and monitor your progress
+- Categorize transactions for better organization
+- Generate insightful reports and visualizations
+- Customizable currency settings
+- Secure data protection
 
-#### Features:
-- **Easily Monitor Income & Expenses**: Keep track of all your financial transactions with minimal effort.
-- **Set and Track Financial Goals**: Define your financial objectives and measure your progress towards achieving them.
-- **Organize Transactions by Categories**: Group your income and expenses into categories for better clarity and management.
-- **Generate Detailed Reports and Visualizations**: Access comprehensive reports and charts for a clearer understanding of your finances.
-- **Adjustable Currency Settings**: Customize the app to suit your preferred currency.
-- **Enhanced Data Security**: Your financial data is securely protected.
+## Technologies Used
 
-#### Technologies Used:
-- **HTML**
-- **CSS**
-- **JavaScript**
+- HTML
+- CSS
+- JavaScript
 
----
+## Contributing
 
-This keeps the original intent but provides fresh wording for the features and technologies.
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+## Acknowledgements
+
+- [Feather Icons](https://feathericons.com/) - Icons used in the application
+- [Font Awesome](https://fontawesome.com/) - Icons used in the application
+
+## Contact
+
+For any inquiries or questions, please contact [email protected]
+
+Enjoy managing your finances with Personal Finance Tracker!
