@@ -1,9 +1,6 @@
-# FinanceTracker
-Here’s a reworded version for the **Personal Finance Tracker** description:
 
----
 
-### Personal Finance Manager
+### Personal Finance Tracker
 
 Personal Finance Manager is a web-based application designed to simplify financial management. It enables you to monitor your income and spending, set personalized budgets, and maintain control over your financial well-being.
 
